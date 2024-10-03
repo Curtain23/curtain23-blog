@@ -1,0 +1,24 @@
+{
+  "name": "curtain-blog",
+  "version": "1.0.0",
+  "description": "博客静态资源",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Curtain23/curtain-blog.git"
+  },
+  "keywords": [
+    "Curtain23",
+    "XieMu",
+    "Blog"
+  ],
+  "author": "Curtain23",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Curtain23/curtain-blog/issues"
+  },
+  "homepage": "https://github.com/Curtain23/curtain-blog#readme"
+}
