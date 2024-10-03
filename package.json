@@ -1,6 +1,6 @@
 {
-  "name": "curtain-blog",
-  "version": "1.0.1",
+  "name": "curtain23-blog",
+  "version": "1.0.0",
   "description": "博客静态资源",
   "main": "index.js",
   "scripts": {
